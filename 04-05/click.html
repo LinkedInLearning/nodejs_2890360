@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8" />
+<title>Event-Beispiel</title>
+<script>
+function initElement() {
+	var text = document.getElementById("foo");
+	text.onclick = showAlert;
+};
+
+function showAlert() {
+	alert("Angeklickt!")
+}
+</script>
+</head>
+<body onload="initElement();">
+<p></p>
+<br>
+<span id="foo">Dieser Text lässt sich anklicken!</span>
+</body>
+</html>
+
