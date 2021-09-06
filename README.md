@@ -1,4 +1,4 @@
-# Node.js Lernen
+# Node.js lernen
 Dies ist das Repository für den LinkedIn Learning Kurs `Node.js Lernen`.Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
 _See the readme file in the main branch for updated instructions and information._
