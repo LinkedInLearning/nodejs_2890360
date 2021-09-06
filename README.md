@@ -1,7 +1,6 @@
 # Node.js lernen
 Dies ist das Repository für den LinkedIn Learning Kurs `Node.js Lernen`.Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
 ## Anleitung
 Dieses Repository hat Branches für jedes Video im Kurs. Verwenden Sie das Ausklappmenü "Branch: ..." in GitHub um zwischen den unterschiedlichen Branches hin und her zu wechseln bzw. um bei einem spezifischen Status einzusteigen. Oder Sie fügen /tree/BRANCH_NAME der URL hinzu um direkt in den gewünschten Branch zu wechseln.
 
