@@ -35,7 +35,7 @@ Dieses Problem lösen Sie wie folgt:
 
 **Tim Schürmann**
 
-_[Berufsbezeichnung hier eintragen]_
+_Autor, IT-Journalist, Joomla!-Experte_
 
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/in/tim-schürmann-aab882105) an.
 
