@@ -20,4 +20,4 @@ _Autor, IT-Journalist, Joomla!-Experte_
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/in/tim-schürmann-aab882105) an.
 
 [lil-course-url]: https://www.linkedin.com/learning/node-js-lernen/schritt-fur-schritt-anleitung-um-komplette-javascript-anwendungen-und-server-dienste-zu-schreiben
-[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQE7cDtcey48-w/learning-public-crop_675_1200/0/1641379944096?e=1641906000&v=beta&t=7TwUM4zmx_G_6h8FjJommGCyvtMyShmsGswOd49KIwI
+[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQE7cDtcey48-w/learning-public-crop_675_1200/0/1641379944096?e=1643367600&v=beta&t=SFcoZHWXad9tZ92QUl8_321Qt_dYZC-mlpEaOFQxa4c
